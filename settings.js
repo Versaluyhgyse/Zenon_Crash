@@ -5,14 +5,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348165846414"
-global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
+global.ownernomer = "2349026472453"
+global.ownername = "1verse"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Nigeria"
 
-global.ownernumber = '2348165846414'  //creator number
-global.ownername = '𝑻𝒐𝒙𝒙𝒊𝒄 𝑻𝒆𝒄𝒉' //owner name
+global.ownernumber = '2349026472453'  //creator number
+global.ownername = '1verse' //owner name
 global.botname = '𝒁𝒆𝒏𝒐𝒏 𝒁𝒐𝒈𝒓𝒂𝒕𝒊𝒔' //name of the bot
 
 // MENU TYPE
@@ -30,7 +30,7 @@ global.typemenu = 'v1'
 
 //sticker details
 global.packname = '𝒁𝒆𝒏𝒐𝒏 𝑾𝒊𝒍𝒍 𝑪𝒓𝒂𝒔𝒉 𝑨𝒍𝒍'
-global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄'
+global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 1verse'
 
 //console view/theme
 global.themeemoji = '🤯'
@@ -40,12 +40,12 @@ global.wm = "Toxxic Tech."
 global.link = 'https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P'
 
 //custom prefix
-global.prefa = ['','.']
+global.prefa = ['','*']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
